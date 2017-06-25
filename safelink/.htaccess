@@ -1,0 +1,5 @@
+RewriteBase /
+RewriteEngine On
+
+RewriteRule ^tag/(.+)\&\&(.+)$ safelink/?url=$1%26%26$2 [R=301]
+
