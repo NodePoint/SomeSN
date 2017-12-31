@@ -60,7 +60,7 @@ else {
 ?>
 <br>
 <br>
-&copy; SomeSN 2017
+&copy; SomeSN 2017 - 2018
 <br>
 All rights reserved.
 <br>
