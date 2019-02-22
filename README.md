@@ -50,8 +50,6 @@ I decided to leave in 'privtest/index.php' just in case it's useful to someone.
 
 What issues are there?
 ------
-&bull; While not to do with the code itself, there is no database to import. The only way to use this is if you recreate the database based on what tables and columns the MySQL queries mention (backups previously got nuked);
-<br>
 &bull; Not PSR-2 compliant;
 <br>
 &bull; Not so modular -- need to change more files manually;
